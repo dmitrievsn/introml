@@ -1,0 +1,8 @@
+Name,last_name,Age,City,is_closed,home_town,in_group,male_dummy,likes_memes
+Alica,Larin,24,Moscow,False,Samara,True,0,5.0
+Boris,Ivanov,27,Moscow,True,Saratov,True,1,8.0
+Slava,Sidorov,22,Saint Peterburg,False,Saint Peterburg,False,1,44.0
+Dmitriy,Alekseev,32,,True,,False,1,
+Evgenia,Petrov,29,Moscow,False,Moscow,True,0,1.0
+Boris,Lebedev,44,Saint Peterburg,True,Moscow,True,1,12.0
+Dmitriy,Aksenov,15,Saint Peterburg,False,Kirov,False,1,11.0
